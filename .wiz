@@ -1,0 +1,5 @@
+ignore:
+  secrets:
+    SECRET-1179:
+      /api_keys/github.personal-access-token-v2-2.txt:
+        reason: BY_DESIGN
