@@ -1,0 +1,9 @@
+ignore:
+  secrets:
+    SECRET-1179:
+      /api_keys/github.personal-access-token-v2-2.txt:
+        reason: BY_DESIGN
+  iac:
+    1d6b8440-3bb9-48fd-b246-0f395edfc0a7:
+      /terraform/s3.tf:
+        reason: EXCEPTION
